@@ -1,0 +1,30 @@
+div{
+    border: 25px;
+    height:100px ;
+    width:100px ;
+}
+main{
+    height: 2000px;
+}
+p{
+    color: red;
+}
+nav{
+    background-color: #0f1111;
+}
+a{
+    color: white;
+    margin:100px;
+    text-decoration: none;
+}
+#search{
+    width: 400px;
+    height: 30px;
+    border-radius: 5px;
+    border: 1px solid #febd69;
+}
+#search-btn{
+    background-color: #febd69;
+    padding: 5px 10px;
+    border-radius: 5px;
+}

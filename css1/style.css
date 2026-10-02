@@ -1,0 +1,34 @@
+
+#box {
+    background-color: blue;
+    font-size: 20px;
+    line-height: 2.5;
+}
+.heading {
+    color: red;
+}
+button {
+    background-color: purple;
+}
+h1 {
+    text-align: center;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family: "Monospace";
+}
+h2 {
+    text-decoration: overline;
+    font-family: "Arial";
+}
+h3 {
+    text-decoration: underline;
+}
+p {
+    font-weight: bold;
+}
+#outer {
+    font-size: 25px;
+}
+#inner {
+    font-size: 10px;
+}
